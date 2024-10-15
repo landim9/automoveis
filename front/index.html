@@ -10,21 +10,28 @@
 
 <body>
 
-    <div class="quadrado-1 quad">1</div>
-    <div class="quadrado-2 quad">2</div>
-    <div class="quadrado-3 quad">3</div>
+    <div class="quadrado-1 quad" onclick="modal()">1</div>
+    <div class="quadrado-2 quad" onclick="modal()">2</div>
+    <div class="quadrado-3 quad" onclick="modal()">3</div>
     <div class="quadrado-4 quad" onclick="modalNovo.classList.remove('oculto')">4</div>
-    <div class="quadrado-5 quad">5</div>
-    <div class="quadrado-6 quad">6</div>
-    <div class="quadrado-7 quad">7</div>
-    <div class="quadrado-8 quad">8</div>
-    <div class="quadrado-9 quad">9</div>
-    <div class="quadrado-10 quad">10</div>
-    <div class="quadrado-11 quad">11</div>
+    <div class="quadrado-5 quad" onclick="modal()">5</div>
+    <div class="quadrado-6 quad" onclick="modal()">6</div>
+    <div class="quadrado-7 quad" onclick="modal()">7</div>
+    <div class="quadrado-8 quad" onclick="modal()">8</div>
+    <div class="quadrado-9 quad" onclick="modal()">9</div>
+    <div class="quadrado-10 quad" onclick="modal()">10</div>
+    <div class="quadrado-11 quad" onclick="modal()">11</div>
 
     <div id="modalNovo" class="modal oculto">
         <div class="janela">
             <h3 id="area"></h3>
+            <table>
+                <thead>
+                    <tr>Modelo</tr>
+                    <tr>Preço</tr>
+                </thead>
+                <tbody id="corpo"></tbody>
+            </table>
             <form id="formTurma">
                 <div class="button">
                     <button type="reset" onclick="modalNovo.classList.add('oculto')">Cancelar</button>
@@ -36,5 +43,6 @@
 
 
 </body>
+<script src="assets/script/script.js"></script>
 
 </html>

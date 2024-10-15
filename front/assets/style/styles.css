@@ -16,6 +16,10 @@
     --secondary: #707070;
 }
 
+table, th, td, tr {
+    border: 1px solid;
+  }
+
 .quadrado-1 {
     background-color: white;
     width: 200px;
@@ -122,8 +126,8 @@
   .janela {
     width: 100%;
     height: 100%;
-    max-width: 400px;
-    max-height: 300px;
+    max-width: 600px;
+    max-height: 500px;
     background-color: var(--primary);
     border: none;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
