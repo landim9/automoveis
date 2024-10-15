@@ -1,0 +1,202 @@
+[
+	{
+	  "Id": 1,
+	  "Modelo": "Fiat Strada",
+	  "Preco": 43115
+	},
+	{
+	  "Id": 2,
+	  "Modelo": "Fiat Argo",
+	  "Preco": 47660
+	},
+	{
+	  "Id": 3,
+	  "Modelo": "Fiat Mobi",
+	  "Preco": 32102
+	},
+	{
+	  "Id": 4,
+	  "Modelo": "Jeep Compass",
+	  "Preco": 34950
+	},
+	{
+	  "Id": 5,
+	  "Modelo": "Hyundai HB20",
+	  "Preco": 49302
+	},
+	{
+	  "Id": 6,
+	  "Modelo": "JeepRenegade",
+	  "Preco": 36661
+	},
+	{
+	  "Id": 7,
+	  "Modelo": "Volkswagen T-Cross",
+	  "Preco": 38182
+	},
+	{
+	  "Id": 8,
+	  "Modelo": "Fiat Toro",
+	  "Preco": 57733
+	},
+	{
+	  "Id": 9,
+	  "Modelo": "Hyundai Creta",
+	  "Preco": 55998
+	},
+	{
+	  "Id": 10,
+	  "Modelo": "Chevrolet S10",
+	  "Preco": 51035
+	},
+	{
+	  "Id": 11,
+	  "Modelo": "Toyota Corolla Cross",
+	  "Preco": 34544
+	},
+	{
+	  "Id": 12,
+	  "Modelo": "Toyota Hilux",
+	  "Preco": 53937
+	},
+	{
+	  "Id": 13,
+	  "Modelo": "Toyota Corolla",
+	  "Preco": 55022
+	},
+	{
+	  "Id": 14,
+	  "Modelo": "Volkswagen Gol",
+	  "Preco": 48253
+	},
+	{
+	  "Id": 15,
+	  "Modelo": "Honda HR-V",
+	  "Preco": 53438
+	},
+	{
+	  "Id": 16,
+	  "Modelo": "Renault KwId",
+	  "Preco": 31810
+	},
+	{
+	  "Id": 17,
+	  "Modelo": "Volkswagen Nivus",
+	  "Preco": 35104
+	},
+	{
+	  "Id": 18,
+	  "Modelo": "Hyundai HB20S",
+	  "Preco": 31855
+	},
+	{
+	  "Id": 19,
+	  "Modelo": "FordRanger",
+	  "Preco": 48927
+	},
+	{
+	  "Id": 20,
+	  "Modelo": "Fiat Uno",
+	  "Preco": 38111
+	},
+	{
+	  "Id": 21,
+	  "Modelo": "Fiat Cronos",
+	  "Preco": 36515
+	},
+	{
+	  "Id": 22,
+	  "Modelo": "Citro�n C4 Cactus",
+	  "Preco": 53654
+	},
+	{
+	  "Id": 23,
+	  "Modelo": "Toyota Yaris Hatchback",
+	  "Preco": 55869
+	},
+	{
+	  "Id": 24,
+	  "Modelo": "Volkswagen Voyage",
+	  "Preco": 30954
+	},
+	{
+	  "Id": 25,
+	  "Modelo": "Honda Civic",
+	  "Preco": 30871
+	},
+	{
+	  "Id": 26,
+	  "Modelo": "Volkswagen Saveiro",
+	  "Preco": 32306
+	},
+	{
+	  "Id": 27,
+	  "Modelo": "Caoa Chery Tiggo 5x",
+	  "Preco": 30069
+	},
+	{
+	  "Id": 28,
+	  "Modelo": "Volkswagen Virtus",
+	  "Preco": 40689
+	},
+	{
+	  "Id": 29,
+	  "Modelo": "Fiat Grand Siena",
+	  "Preco": 33469
+	},
+	{
+	  "Id": 30,
+	  "Modelo": "Caoa Chery Tiggo 8",
+	  "Preco": 48481
+	},
+	{
+	  "Id": 31,
+	  "Modelo": "Chevrolet Tracker",
+	  "Preco": 30648
+	},
+	{
+	  "Id": 32,
+	  "Modelo": "Peugeot 208",
+	  "Preco": 46934
+	},
+	{
+	  "Id": 33,
+	  "Modelo": "Toyota SW4",
+	  "Preco": 54252
+	},
+	{
+	  "Id": 34,
+	  "Modelo": "Nissan Frontier",
+	  "Preco": 32596
+	},
+	{
+	  "Id": 35,
+	  "Modelo": "Honda WR-V",
+	  "Preco": 35139
+	},
+	{
+	  "Id": 36,
+	  "Modelo": "Volkswagen Taos",
+	  "Preco": 47546
+	},
+	{
+	  "Id": 37,
+	  "Modelo": "Mitsubishi L200",
+	  "Preco": 57049
+	},
+	{
+	  "Id": 38,
+	  "Modelo": "Renault Oroch",
+	  "Preco": 48756
+	},
+	{
+	  "Id": 39,
+	  "Modelo": "Toyota Yaris Sedan",
+	  "Preco": 43077
+	},
+	{
+	  "Id": 40,
+	  "Modelo": "Renault Duster",
+	  "Preco": 52641
+	}
+  ]

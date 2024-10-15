@@ -1,0 +1,159 @@
+.quad {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    height: 200px;
+    padding: 20px;
+    position: fixed;
+    width: 200px;
+}
+
+:root {
+    --primary: #7814FF;
+    --secondary: #707070;
+}
+
+.quadrado-1 {
+    background-color: white;
+    width: 200px;
+    height: 350px;
+    left: 430px;
+    top: 440px;
+    z-index: 4;
+}
+
+.quadrado-2 {
+    background-color: white;
+    left: 890px;
+    top: 550px;
+    z-index: 3;
+    width: 140px;
+}
+
+.quadrado-3 {
+    background-color: white;
+    left: 550px;
+    top: 530px;
+    width: 500px;
+    height: 400px;
+    z-index: 2;
+}
+
+.quadrado-4 {
+    background-color: white;
+    left: 610px;
+    top: 350px;
+    z-index: 5;
+    width: 250px;
+}
+
+.quadrado-5 {
+    background-color: white;
+    left: 850px;
+    top: 430px;
+    width: 600px;
+    height: 500px;
+    z-index: -1;
+}
+
+.quadrado-6 {
+    background-color: white;
+    left: 1664px;
+    top: 88px;
+    z-index: 2;
+    height: 100px;
+}
+
+.quadrado-7 {
+    background-color: white;
+    left: 870px;
+    top: 332px;
+    width: 300px;
+    height: 100px;
+}
+
+.quadrado-8 {
+    background-color: white;
+    left: 650px;
+    top: 200px;
+    height: 100px;
+}
+
+.quadrado-9 {
+    background-color: white;
+    left: 840px;
+    top: 190px;
+    height: 120px;
+}
+
+.quadrado-10 {
+    background-color: white;
+    left: 1300px;
+    top: 88px;
+    width: 30vw;
+    height: 90vh;
+    z-index: -2;
+}
+
+.quadrado-11 {
+    background-color: white;
+    left: 800px;
+    top: 65px;
+    width: 100px;
+    height: 120px;
+}
+
+.modal {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 7;
+  }
+  
+  .janela {
+    width: 100%;
+    height: 100%;
+    max-width: 400px;
+    max-height: 300px;
+    background-color: var(--primary);
+    border: none;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 7;
+  }
+  
+  .janela form {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 7;
+  }
+  
+  .janela form input {
+    width: 100%;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    text-align: center;
+    border: 1px solid #000;
+    border-radius: 5px;
+    
+  }
+  
+  .oculto {
+    display: none;
+  }

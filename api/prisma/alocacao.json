@@ -1,0 +1,282 @@
+[
+	{
+	  "Id": 1,
+	  "Area": 1,
+	  "Automovel": 1,
+	  "IdConcessionaria": 1,
+	  "Quantidade": 8
+	},
+	{
+	  "Id": 2,
+	  "Area": 2,
+	  "Automovel": 2,
+	  "IdConcessionaria": 2,
+	  "Quantidade": 1
+	},
+	{
+	  "Id": 3,
+	  "Area": 4,
+	  "Automovel": 3,
+	  "IdConcessionaria": 3,
+	  "Quantidade": 4
+	},
+	{
+	  "Id": 4,
+	  "Area": 7,
+	  "Automovel": 4,
+	  "IdConcessionaria": 4,
+	  "Quantidade": 6
+	},
+	{
+	  "Id": 5,
+	  "Area": 8,
+	  "Automovel": 5,
+	  "IdConcessionaria": 5,
+	  "Quantidade": 4
+	},
+	{
+	  "Id": 6,
+	  "Area": 9,
+	  "Automovel": 6,
+	  "IdConcessionaria": 1,
+	  "Quantidade": 4
+	},
+	{
+	  "Id": 7,
+	  "Area": 10,
+	  "Automovel": 7,
+	  "IdConcessionaria": 2,
+	  "Quantidade": 1
+	},
+	{
+	  "Id": 8,
+	  "Area": 1,
+	  "Automovel": 8,
+	  "IdConcessionaria": 2,
+	  "Quantidade": 7
+	},
+	{
+	  "Id": 9,
+	  "Area": 2,
+	  "Automovel": 9,
+	  "IdConcessionaria": 3,
+	  "Quantidade": 2
+	},
+	{
+	  "Id": 10,
+	  "Area": 4,
+	  "Automovel": 10,
+	  "IdConcessionaria": 4,
+	  "Quantidade": 6
+	},
+	{
+	  "Id": 11,
+	  "Area": 7,
+	  "Automovel": 11,
+	  "IdConcessionaria": 5,
+	  "Quantidade": 3
+	},
+	{
+	  "Id": 12,
+	  "Area": 8,
+	  "Automovel": 12,
+	  "IdConcessionaria": 1,
+	  "Quantidade": 9
+	},
+	{
+	  "Id": 13,
+	  "Area": 9,
+	  "Automovel": 13,
+	  "IdConcessionaria": 2,
+	  "Quantidade": 9
+	},
+	{
+	  "Id": 14,
+	  "Area": 10,
+	  "Automovel": 14,
+	  "IdConcessionaria": 3,
+	  "Quantidade": 6
+	},
+	{
+	  "Id": 15,
+	  "Area": 1,
+	  "Automovel": 15,
+	  "IdConcessionaria": 3,
+	  "Quantidade": 4
+	},
+	{
+	  "Id": 16,
+	  "Area": 2,
+	  "Automovel": 16,
+	  "IdConcessionaria": 4,
+	  "Quantidade": 1
+	},
+	{
+	  "Id": 17,
+	  "Area": 4,
+	  "Automovel": 17,
+	  "IdConcessionaria": 5,
+	  "Quantidade": 8
+	},
+	{
+	  "Id": 18,
+	  "Area": 7,
+	  "Automovel": 18,
+	  "IdConcessionaria": 1,
+	  "Quantidade": 4
+	},
+	{
+	  "Id": 19,
+	  "Area": 8,
+	  "Automovel": 19,
+	  "IdConcessionaria": 2,
+	  "Quantidade": 10
+	},
+	{
+	  "Id": 20,
+	  "Area": 9,
+	  "Automovel": 20,
+	  "IdConcessionaria": 3,
+	  "Quantidade": 10
+	},
+	{
+	  "Id": 21,
+	  "Area": 10,
+	  "Automovel": 21,
+	  "IdConcessionaria": 4,
+	  "Quantidade": 7
+	},
+	{
+	  "Id": 22,
+	  "Area": 1,
+	  "Automovel": 22,
+	  "IdConcessionaria": 4,
+	  "Quantidade": 3
+	},
+	{
+	  "Id": 23,
+	  "Area": 2,
+	  "Automovel": 23,
+	  "IdConcessionaria": 5,
+	  "Quantidade": 5
+	},
+	{
+	  "Id": 24,
+	  "Area": 4,
+	  "Automovel": 24,
+	  "IdConcessionaria": 1,
+	  "Quantidade": 4
+	},
+	{
+	  "Id": 25,
+	  "Area": 7,
+	  "Automovel": 25,
+	  "IdConcessionaria": 2,
+	  "Quantidade": 3
+	},
+	{
+	  "Id": 26,
+	  "Area": 8,
+	  "Automovel": 26,
+	  "IdConcessionaria": 3,
+	  "Quantidade": 3
+	},
+	{
+	  "Id": 27,
+	  "Area": 9,
+	  "Automovel": 27,
+	  "IdConcessionaria": 4,
+	  "Quantidade": 10
+	},
+	{
+	  "Id": 28,
+	  "Area": 10,
+	  "Automovel": 28,
+	  "IdConcessionaria": 5,
+	  "Quantidade": 4
+	},
+	{
+	  "Id": 29,
+	  "Area": 1,
+	  "Automovel": 29,
+	  "IdConcessionaria": 1,
+	  "Quantidade": 2
+	},
+	{
+	  "Id": 30,
+	  "Area": 2,
+	  "Automovel": 30,
+	  "IdConcessionaria": 2,
+	  "Quantidade": 3
+	},
+	{
+	  "Id": 31,
+	  "Area": 4,
+	  "Automovel": 31,
+	  "IdConcessionaria": 3,
+	  "Quantidade": 4
+	},
+	{
+	  "Id": 32,
+	  "Area": 7,
+	  "Automovel": 32,
+	  "IdConcessionaria": 4,
+	  "Quantidade": 2
+	},
+	{
+	  "Id": 33,
+	  "Area": 8,
+	  "Automovel": 33,
+	  "IdConcessionaria": 5,
+	  "Quantidade": 3
+	},
+	{
+	  "Id": 34,
+	  "Area": 9,
+	  "Automovel": 34,
+	  "IdConcessionaria": 1,
+	  "Quantidade": 4
+	},
+	{
+	  "Id": 35,
+	  "Area": 10,
+	  "Automovel": 35,
+	  "IdConcessionaria": 2,
+	  "Quantidade": 3
+	},
+	{
+	  "Id": 36,
+	  "Area": 1,
+	  "Automovel": 36,
+	  "IdConcessionaria": 3,
+	  "Quantidade": 2
+	},
+	{
+	  "Id": 37,
+	  "Area": 2,
+	  "Automovel": 37,
+	  "IdConcessionaria": 4,
+	  "Quantidade": 3
+	},
+	{
+	  "Id": 38,
+	  "Area": 4,
+	  "Automovel": 38,
+	  "IdConcessionaria": 5,
+	  "Quantidade": 3
+	},
+	{
+	  "Id": 39,
+	  "Area": 7,
+	  "Automovel": 39,
+	  "IdConcessionaria": 1,
+	  "Quantidade": 2
+	},
+	{
+	  "Id": 40,
+	  "Area": 8,
+	  "Automovel": 40,
+	  "IdConcessionaria": 2,
+	  "Quantidade": 1
+	}
+  ]

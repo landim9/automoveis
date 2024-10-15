@@ -1,0 +1,22 @@
+[
+	{
+	  "Id": 1,
+	  "Concessionaria": "Atena concessionaria"
+	},
+	{
+	  "Id": 2,
+	  "Concessionaria": "Demtir concessionaria"
+	},
+	{
+	  "Id": 3,
+	  "Concessionaria": "Hera concessionaria"
+	},
+	{
+	  "Id": 4,
+	  "Concessionaria": "Estia concessionaria"
+	},
+	{
+	  "Id": 5,
+	  "Concessionaria": "Persfone concessionaria"
+	}
+  ]
